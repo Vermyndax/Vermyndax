@@ -2,7 +2,7 @@
 
 Yay I found a secret. I'll take what I can get any day.
 
-- 🔭 I’m currently working on NASA Web Services Office stuff.
+- 🔭 I’m currently working at Finch Computing as a Director of Cloudy stuff.
 - 🌱 I’m currently learning Swift and everything else I can possibly soak up.
 - 👯 I’m looking to collaborate on anything that helps me avoid meetings.
 - 🤔 I’m looking for help with mental health.
